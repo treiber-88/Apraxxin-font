@@ -1,0 +1,11 @@
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\obj\Release\net48\ApraxxinKeyboard.csproj.AssemblyReference.cache
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\obj\Release\net48\ApraxxinKeyboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\obj\Release\net48\ApraxxinKeyboard.AssemblyInfoInputs.cache
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\obj\Release\net48\ApraxxinKeyboard.AssemblyInfo.cs
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\obj\Release\net48\ApraxxinKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\obj\Release\net48\ApraxxinKeyboard.sourcelink.json
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\bin\Release\net48\ApraxxinKeyboard.exe.config
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\bin\Release\net48\ApraxxinKeyboard.exe
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\bin\Release\net48\ApraxxinKeyboard.pdb
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\obj\Release\net48\ApraxxinKeyboard.exe
+C:\Users\mk-ki\Desktop\Apraxxin dialect\keyboard\obj\Release\net48\ApraxxinKeyboard.pdb

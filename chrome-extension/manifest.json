@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "Apraxxin for Chrome",
+  "version": "1.0",
+  "description": "Shows Apraxxin characters on web pages using the Apraxxin font installed on this computer.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "all_frames": true,
+      "match_about_blank": true,
+      "world": "MAIN"
+    }
+  ]
+}
